@@ -3,6 +3,6 @@
   "private": true,
   "main": "index.js",
   "dependencies": {
-    "actions-toolkit": "^1.6.0"
+    "actions-toolkit": "^6.0.1"
   }
 }
